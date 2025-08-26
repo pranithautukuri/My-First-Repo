@@ -1,0 +1,4 @@
+Name=Praneetha
+College=Aditya Degree College for Women's
+Group=Bsc Computer science
+About GitHub=Learned about how to create a account How to upload a file How to commit a file
