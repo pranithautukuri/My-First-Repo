@@ -1,0 +1,4 @@
+Student Name=U.Praneetha
+College Name=Aditya Degree college for women's
+Email=Aditya.ac.in
+Phone number=6942538724
